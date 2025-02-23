@@ -4,9 +4,17 @@
 }
 
 .search {
+    display: block;
     color: white;
 }
 
 .video-title {
     width: 300px;
+}
+
+.video-preview {
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
 }
